@@ -1,0 +1,32 @@
+{
+  "serudents": [
+    {
+      "name": "Akteruzzaman",
+      "email": "akteruzzaman@gamil.com",
+      "password": "abcd",
+      "id": 2,
+      "age": 41,
+      "Skill": "Larvel devs",
+      "address": "Hatiy Nokhali, Bangladesh"
+    },
+    {
+      "email": "worldcup@gamil.com",
+      "password": "abcd",
+      "age": 29,
+      "Skill": "Cricket ",
+      "address": "Hatiy Nokhali, Bangladesh",
+      "id": 3,
+      "name": "Abdul jolil"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Abdul jolil",
+      "phone": "0234972597",
+      "age": 29,
+      "Skill": "Cricket ",
+      "address": "Hatiy Nokhali, Bangladesh",
+      "id": 1
+    }
+  ]
+}
